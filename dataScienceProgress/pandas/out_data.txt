@@ -1,0 +1,6 @@
+dark,batch_11,80,0,16
+dark,batcj_12,78,0,14
+milk,batch_72,35,25,25
+milk,batch_73,32,27,22
+swiss,batch_52,30,30,20
+swiss,batcj_53,28,33,18

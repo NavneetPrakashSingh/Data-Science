@@ -1,0 +1,4 @@
+choco_type,id,cocoa,milk,sugar,id,cocoa,milk,sugar
+dark,batch_11,80,0,16,batcj_12,78,0,14
+milk,batch_72,35,25,25,batch_73,32,27,22
+swiss,batch_52,30,30,20,batcj_53,28,33,18
