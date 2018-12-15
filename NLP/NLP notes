@@ -1,0 +1,18 @@
+NLP
+Applying machine learning models to text and language.
+Teaching machines to understand what is being spoken or read
+E.g Dictating something into android device which gets converted to  text, is an example of NLP algorithm.
+NLP used to predict if the review is a good one or bad one.
+NLP to predict category of article in a segment
+Most NLP algorithms are classification model:
+Logistic regression
+Naive Bayes 
+CART (based on decision tree)
+Maximum Entropy (decision Trees)
+Hidden Markov Models (Markov processes)
+Bag of words: Model used to preprocess the text to classify before fitting classification algorithms on observations containing text
+
+Steps involved:
+Clean text to prepare them for machine learning models
+Create a bag of words model
+apply machine learning models to bag of words model

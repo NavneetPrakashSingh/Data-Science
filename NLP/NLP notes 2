@@ -1,0 +1,15 @@
+NLP in general
+NLP is an area of CS in AI concerns with interaction between computer and humans
+
+Use cases
+Sentimental analysis 
+to predict genre of book
+question answering
+build machine translator
+
+NLP library: 50 lexicon resources
+NLTK
+SpaCy
+Stanford NLP
+OpenNLP
+
